@@ -93,7 +93,7 @@ startServices() {
     # Mengclone web
     cd /var/www/html
     echo -e "Sedang menjalankan perintah"
-    git clone https://github.com/hmdrahmat/bolaweb2024.git
+    git clone https://github.com/hmdrahmat/bolav5.git
 
 }
 
