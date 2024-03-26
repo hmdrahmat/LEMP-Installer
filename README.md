@@ -19,7 +19,7 @@ Supported Operating Systems:
 
 Steps:
 
-1. Clone this repository
+1. `git clone https://github.com/hmdrahmat/LEMP-Installer.git`
 2. `cd LEMP-Installer`
 3. `chmod +x lemp.sh` 
 4. `./lemp.sh` or `./lemp.sh $YOUR_MYSQL_ROOT_PASSWORD` (only for debian based distributions)
